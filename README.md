@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TreganStangle
+- 👀 I’m interested in learning new programming langauages
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email- treganstangle@gmail.com
+- =
